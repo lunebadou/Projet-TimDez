@@ -1,0 +1,5 @@
+@echo off
+cd /d "C:\Users\Fatoumata DIALLO\Desktop\Incendie_app\Backend_nodeRed"
+call ".venv\Scripts\activate.bat"
+start "" /B python -u python\mqtt_listener.py
+python app.py

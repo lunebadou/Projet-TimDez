@@ -1,0 +1,26 @@
+{
+    "name": "Timdeiz Incendie",
+    "short_name": "Timdeiz",
+    "description": "Plateforme IoT de détection et supervision incendie",
+    "lang": "fr",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#0b0f14",
+    "theme_color": "#0b0f14",
+    "icons": [
+        {
+            "src": "icons/logo.png.jpeg",
+            "sizes": "1024x1024",
+            "type": "image/jpeg"
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/logo.png.jpeg",
+            "sizes": "1024x1024",
+            "type": "image/jpeg"
+            "purpose": "any maskable"
+        }
+    ]
+}

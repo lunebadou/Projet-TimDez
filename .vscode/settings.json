@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "Broker Incendie",
+            "host": "209.38.68.161",
+            "port": 1883,
+            "clientId": "vsmqtt_client_1707",
+            "username": "invite",
+            "password": "invite"
+        }
+    ]
+}
