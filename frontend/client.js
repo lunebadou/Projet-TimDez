@@ -1,5 +1,5 @@
 // Données exposées par le serveur Flask.
-const API_URL = "http://127.0.0.1:5000/api/dashboard";
+const API_URL = "http://" + window.location.hostname + ":5000/api/dashboard";
 
 function setText(id, value) {
     const element = document.getElementById(id);
